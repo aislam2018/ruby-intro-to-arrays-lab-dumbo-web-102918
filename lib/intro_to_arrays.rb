@@ -22,4 +22,7 @@ def third_element(my_third_element)
     return my_last_element
   end
   def first_element_with_array_methods(first_country)
-    
+    south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+    first_country = south_east_asia.first 
+    return first_country
+  end
