@@ -33,3 +33,6 @@ def third_element(my_third_element)
   end
   def length_of_array(length)
     programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
+    length = programming_languages.length
+    return length
+  end
