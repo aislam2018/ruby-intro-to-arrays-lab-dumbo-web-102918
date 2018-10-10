@@ -31,4 +31,4 @@ def third_element(my_third_element)
     last_country = south_east_asia.last 
     return last_country
   end
-  def length_of_array()
+  def length_of_array(length)
